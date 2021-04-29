@@ -20,11 +20,10 @@
   __tests__ folder
 
   ### Questions
-  wfh2d88@gmail.com <br> 
 
   https://github.com/hadeediqbal
 
-  https://github.com/william-hunt88/Advance-It-
+  https://github.com/william-hunt88/Project-2
   
   
   Licensed under the [MIT](https://github.com/william-hunt88/Advance-It-/blob/main/LICENSE.txt) license
